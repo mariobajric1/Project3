@@ -1,0 +1,129 @@
+[
+  {
+    "text":
+      "You find yourself in a classroom that is radiant, and your instructor asks you to make a 'div', what do you do? ",
+    "image":
+      "data:image/png;base64,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",
+    "options": [
+      {
+        "text": "You ask yourself, 'What the f$#* is a div? ",
+        "send_to": 1
+      },
+      {
+        "text": "You take a nap...zzz",
+        "send_to": 1
+      },
+      {
+        "text": "You google it!",
+        "send_to": 1
+      },
+      {
+        "text": "You pinch yourself to check if it's a nightmare",
+        "send_to": 1
+      }
+    ]
+  },
+  {
+    "text": "It's your first lunch break, so its time to eat...",
+    "image":
+      "https://pbs.twimg.com/profile_images/918972315991384064/qwetpLdA.jpg",
+    "options": [
+      {
+        "text": "You run home, this isn't what you thought you signed up for",
+        "send_to": 2
+      },
+      {
+        "text": "You head over to Taco Bell",
+        "send_to": 3
+      },
+      {
+        "text": "You eat a healthy lunch that you packed for yourself",
+        "send_to": 3
+      },
+      {
+        "text":
+          "You spend the whole lunch period trying to define 'div' in your own words.",
+        "send_to": 3
+      }
+    ]
+  },
+  {
+    "text": "Let's try this again.",
+    "image":
+      "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/VCHXZQKsxil3lhgr4/animation-loading-circle-icon-on-white-background-with-alpha-channel-4k-video_sjujffkcde_thumbnail-full01.png",
+    "options": [
+      {
+        "text": "Restart",
+        "send_to": 0
+      }
+    ]
+  },
+  {
+    "text":
+      "After the much needed break, you head back to class and try to come in stronger than you were when you were on the first day of class. Your instructor teaches you about Bootstrap, and your whole mindset about code changes",
+    "image": "https://getbootstrap.com/assets/img/bootstrap-stack.png",
+    "options": [
+      {
+        "text": "I'm a developer! Copy Paste Copy Paste Copy Paste",
+        "send_to": 4
+      },
+      {
+        "text": "Thank you god, no more divs.",
+        "send_to": 4
+      }
+    ]
+  },
+
+  {
+    "text":
+      "Class is over for the day, and you have to start on your first assignment",
+    "image": "https://i.stack.imgur.com/SHgTO.png",
+    "options": [
+      {
+        "text": "You scream and yell for help",
+        "send_to": 5
+      },
+      {
+        "text":
+          "You spend several hours on Stack trying to learn the basics of HTML and CSS",
+        "send_to": 5
+      },
+      {
+        "text":
+          "You finally grasp the fundementals of a div, so you're ready to climb out of the hole you found yourself in. Let's start class tommorrow the right way.",
+        "send_to": 5
+      }
+    ]
+  },
+  {
+    "text": "You Graduated!!!",
+    "image":
+      "https://media.licdn.com/dms/image/C4D03AQEnawywwTgl-A/profile-displayphoto-shrink_800_800/0?e=1529168400&v=beta&t=E-7SUZJVpuTW-nRCskcQINd7I-FkTcJBMBo1IpGAmcI",
+    "options": [
+      {
+        "text": "Time to celebrate!",
+        "send_to": 6
+      },
+      {
+        "text": "I'm going to build apps all the time!",
+        "send_to": 0
+      },
+
+      {
+        "text": "Hey Andrew... What's a Div?",
+        "send_to": 0
+      }
+    ]
+  },
+  {
+    "text": ";)",
+    "image":
+      "https://pbs.twimg.com/profile_images/918972315991384064/qwetpLdA.jpg",
+    "options": [
+      {
+        "text": "Eat!!!",
+        "send_to": 0
+      }
+    ]
+  }
+]
